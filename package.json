@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/uptimeping",
+  "version": "1.0.0",
+  "description": "Uptime monitor that pings HTTP(S) endpoints and tracks availability stats.",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/uptimeping.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "uptimeping": "./bin/cli.js"
+  }
+}
