@@ -18,5 +18,9 @@
   },
   "bin": {
     "uptimeping": "./bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/uptimeping",
+  "bugs": {
+    "url": "https://github.com/idirdev/uptimeping/issues"
   }
 }
